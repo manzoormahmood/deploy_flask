@@ -1,6 +1,6 @@
 # deploy_flask
 
-The link for demo is (flask-deploy-github.herokuapp.com)
+The link website (flask-deploy-github.herokuapp.com)
 
 The dataset for house price prediction was obtained from kaggle (https://www.kaggle.com/harlfoxem/housesalesprediction/)
 The house price dataset is for USA. 
